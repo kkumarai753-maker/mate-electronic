@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-labelledby="title desc">
+<title id="title">Confirm the details of your chosen product</title><desc id="desc">Illustrative specification checklist: dimensions, electrical rating and model compatibility. Exact specifications vary by model and must be confirmed before purchase.</desc>
+<rect x="32" y="22" width="336" height="274" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+<path d="M33 68h334" stroke="#E2E8F0"/>
+<rect x="50" y="39" width="18" height="12" rx="3" fill="#DBEAFE"/><path d="m54 45 3 3 7-7" stroke="#2563EB" stroke-width="1.7" fill="none"/>
+<text x="80" y="49" fill="#101827" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">PRODUCT DETAILS</text>
+<text x="347" y="49" text-anchor="end" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="7" letter-spacing=".8">MODEL CHECKLIST</text>
+<g stroke="#2563EB" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M59 98h23v17H59zM64 98v5m6-5v3m6-3v5"/><path d="m60 109 3-3m-3 3 3 3m16-3-3-3m3 3-3 3M63 109h13"/>
+<path d="m72 145-10 13h8l-3 10 13-16h-9Z"/>
+<path d="M61 204v-10a10 10 0 0 1 20 0v10M58 204h26v9H58Z"/>
+</g>
+<g fill="#101827" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="600"><text x="105" y="103">Dimensions &amp; fit</text><text x="105" y="155">Electrical rating</text><text x="105" y="201">Model &amp; compatibility</text></g>
+<g fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="8.5"><text x="105" y="119">Check size, mounting and installation needs.</text><text x="105" y="171">Confirm voltage, wattage and rated capacity.</text><text x="105" y="217">Choose the finish and variant for your space.</text></g>
+<path d="M50 134h300M50 182h300" stroke="#F1F5F9"/>
+<rect x="50" y="241" width="300" height="35" rx="7" fill="#F8FAFC"/>
+<text x="200" y="256" text-anchor="middle" fill="#475569" font-family="Inter,Arial,sans-serif" font-size="8">Exact specifications depend on the selected model.</text><text x="200" y="268" text-anchor="middle" fill="#2563EB" font-family="Inter,Arial,sans-serif" font-size="8" font-weight="600">Please confirm with Mate Electricals before purchase.</text>
+</svg>

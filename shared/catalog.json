@@ -1,0 +1,442 @@
+{
+  "currency": "INR",
+  "demo": true,
+  "pricingNotice": "All prices and product specifications are illustrative. No real orders or payments are processed.",
+  "brandsNotice": "Mate Select, Luma Demo and Core Demo are fictional demo labels, not verified store brands or partnerships.",
+  "categories": [
+    {
+      "id": "modular-switches",
+      "name": "Modular Switches",
+      "description": "Clean lines and everyday control for your spaces.",
+      "image": "/assets/switch.svg"
+    },
+    {
+      "id": "led-lighting",
+      "name": "LED Lighting",
+      "description": "Bright, practical lighting for every room.",
+      "image": "/assets/bulb.svg"
+    },
+    {
+      "id": "decorative-lighting",
+      "name": "Decorative Lighting",
+      "description": "Statement lighting and warm finishing touches.",
+      "image": "/assets/pendant.svg"
+    },
+    {
+      "id": "wires-cables",
+      "name": "Wires & Cables",
+      "description": "Connect your project with the right specification.",
+      "image": "/assets/wire.svg"
+    },
+    {
+      "id": "switchboards",
+      "name": "Switchboards",
+      "description": "Organised electrical distribution and protection.",
+      "image": "/assets/mcb.svg"
+    },
+    {
+      "id": "electrical-accessories",
+      "name": "Electrical Accessories",
+      "description": "The useful details that complete your setup.",
+      "image": "/assets/extension.svg"
+    },
+    {
+      "id": "fans-fixtures",
+      "name": "Fans & Fixtures",
+      "description": "Comfort and airflow for everyday living.",
+      "image": "/assets/fan.svg"
+    },
+    {
+      "id": "smart-electricals",
+      "name": "Smart Electrical Products",
+      "description": "Explore connected control for a modern home.",
+      "image": "/assets/smartplug.svg"
+    }
+  ],
+  "products": [
+    {
+      "id": "ivory-modular-switch",
+      "slug": "ivory-modular-switch",
+      "name": "Ivory Modular Switch, 6A",
+      "category": "modular-switches",
+      "brand": "Mate Select",
+      "price": 149,
+      "image": "/assets/single-switch.svg",
+      "images": [
+        "/assets/single-switch.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A clean, minimal switch module for everyday home fittings. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Current rating": "6A (illustrative)",
+        "Finish": "Ivory white",
+        "Format": "Single module",
+        "Use": "Indoor"
+      },
+      "badge": "Demo selection",
+      "featured": true,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "modular-socket-16a",
+      "slug": "modular-socket-16a",
+      "name": "Modular Power Socket, 16A",
+      "category": "modular-switches",
+      "brand": "Core Demo",
+      "price": 249,
+      "image": "/assets/socket.svg",
+      "images": [
+        "/assets/socket.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A matching power socket concept with a simple white finish. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Current rating": "16A (illustrative)",
+        "Finish": "Matte white",
+        "Mounting": "Compatible modular plate required",
+        "Use": "Indoor"
+      },
+      "badge": "",
+      "featured": false,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "warm-led-bulb-9w",
+      "slug": "warm-led-bulb-9w",
+      "name": "Warm LED Bulb, 9W",
+      "category": "led-lighting",
+      "brand": "Luma Demo",
+      "price": 199,
+      "image": "/assets/led-bulb.svg",
+      "images": [
+        "/assets/led-bulb.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A warm light for relaxed living spaces and comfortable evenings. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Power": "9W (illustrative)",
+        "Colour temperature": "3000K warm white",
+        "Base": "B22",
+        "Input": "220\u2013240V AC"
+      },
+      "badge": "",
+      "featured": true,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "recessed-led-downlight",
+      "slug": "recessed-led-downlight",
+      "name": "Recessed LED Downlight, 12W",
+      "category": "led-lighting",
+      "brand": "Luma Demo",
+      "price": 549,
+      "image": "/assets/downlight.svg",
+      "images": [
+        "/assets/downlight.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A neat recessed ceiling light concept for balanced everyday lighting. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Power": "12W (illustrative)",
+        "Colour temperature": "4000K neutral white",
+        "Shape": "Round",
+        "Installation": "Ceiling cut-out required"
+      },
+      "badge": "Demo selection",
+      "featured": false,
+      "trending": true,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "amber-pendant-light",
+      "slug": "amber-pendant-light",
+      "name": "Amber Glass Pendant Light",
+      "category": "decorative-lighting",
+      "brand": "Luma Demo",
+      "price": 1899,
+      "image": "/assets/pendant.svg",
+      "images": [
+        "/assets/pendant.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A warm pendant concept for dining areas, counters and quiet corners. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Material": "Glass and metal (illustrative)",
+        "Socket": "E27",
+        "Bulb": "Sold separately in this demo",
+        "Use": "Indoor decorative lighting"
+      },
+      "badge": "",
+      "featured": true,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "minimal-pendant-light",
+      "slug": "minimal-pendant-light",
+      "name": "Minimal Dome Pendant Light",
+      "category": "decorative-lighting",
+      "brand": "Mate Select",
+      "price": 2499,
+      "image": "/assets/dome-pendant.svg",
+      "images": [
+        "/assets/dome-pendant.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A simple dome pendant concept with a considered, contemporary profile. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Finish": "Warm ivory (illustrative)",
+        "Socket": "E27",
+        "Mounting": "Ceiling pendant",
+        "Use": "Indoor"
+      },
+      "badge": "",
+      "featured": false,
+      "trending": true,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "house-wire-1-5mm",
+      "slug": "house-wire-1-5mm",
+      "name": "House Wire, 1.5 sq mm",
+      "category": "wires-cables",
+      "brand": "Core Demo",
+      "price": 1499,
+      "image": "/assets/wire.svg",
+      "images": [
+        "/assets/wire.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "An illustrative house-wiring coil. Have an electrician specify the right cable and rating. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Conductor": "Copper (illustrative)",
+        "Cross section": "1.5 sq mm",
+        "Coil length": "90m (illustrative)",
+        "Selection": "Qualified electrician specification required"
+      },
+      "badge": "Demo selection",
+      "featured": true,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "house-wire-2-5mm",
+      "slug": "house-wire-2-5mm",
+      "name": "House Wire, 2.5 sq mm",
+      "category": "wires-cables",
+      "brand": "Core Demo",
+      "price": 2399,
+      "image": "/assets/wire.svg",
+      "images": [
+        "/assets/wire.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A wiring coil concept for project planning. Confirm the required specification before purchase. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Conductor": "Copper (illustrative)",
+        "Cross section": "2.5 sq mm",
+        "Coil length": "90m (illustrative)",
+        "Selection": "Qualified electrician specification required"
+      },
+      "badge": "",
+      "featured": false,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "single-pole-mcb",
+      "slug": "single-pole-mcb",
+      "name": "Single Pole MCB, 16A",
+      "category": "switchboards",
+      "brand": "Core Demo",
+      "price": 299,
+      "image": "/assets/mcb.svg",
+      "images": [
+        "/assets/mcb.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A circuit protection concept. Ask a qualified electrician to confirm ratings and compatibility. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Poles": "1 pole (illustrative)",
+        "Current rating": "16A",
+        "Curve": "C curve (illustrative)",
+        "Mounting": "DIN rail"
+      },
+      "badge": "",
+      "featured": true,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "distribution-board-kit",
+      "slug": "distribution-board-kit",
+      "name": "Compact Distribution Board Kit",
+      "category": "switchboards",
+      "brand": "Mate Select",
+      "price": 1699,
+      "image": "/assets/distribution-board.svg",
+      "images": [
+        "/assets/distribution-board.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "An illustrative compact distribution assembly for discussing your project requirements. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Ways": "4-way (illustrative)",
+        "Enclosure": "Indoor metal enclosure",
+        "Devices": "Confirm inclusions in store",
+        "Installation": "Qualified electrician required"
+      },
+      "badge": "Demo selection",
+      "featured": false,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "power-extension-board",
+      "slug": "power-extension-board",
+      "name": "Four Socket Extension Board",
+      "category": "electrical-accessories",
+      "brand": "Mate Select",
+      "price": 699,
+      "image": "/assets/extension.svg",
+      "images": [
+        "/assets/extension.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "An everyday power extension concept for a tidy home workspace. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Outlets": "4 (illustrative)",
+        "Cable length": "2m",
+        "Switch": "Master switch",
+        "Use": "Indoor; observe load rating"
+      },
+      "badge": "",
+      "featured": true,
+      "trending": true,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "plug-top-16a",
+      "slug": "plug-top-16a",
+      "name": "Heavy Duty Plug Top, 16A",
+      "category": "electrical-accessories",
+      "brand": "Core Demo",
+      "price": 179,
+      "image": "/assets/plugtop.svg",
+      "images": [
+        "/assets/plugtop.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "An illustrative plug accessory for electrical fitting enquiries. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Current rating": "16A (illustrative)",
+        "Pins": "3 pin",
+        "Finish": "White",
+        "Installation": "Qualified electrician recommended"
+      },
+      "badge": "",
+      "featured": false,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "aero-ceiling-fan",
+      "slug": "aero-ceiling-fan",
+      "name": "Aero Ceiling Fan, 1200mm",
+      "category": "fans-fixtures",
+      "brand": "Mate Select",
+      "price": 2799,
+      "image": "/assets/fan.svg",
+      "images": [
+        "/assets/fan.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A modern three-blade ceiling fan concept for everyday rooms. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Sweep": "1200mm (illustrative)",
+        "Blades": "3",
+        "Finish": "Warm ivory",
+        "Motor": "Confirm technology and specifications in store"
+      },
+      "badge": "Demo selection",
+      "featured": true,
+      "trending": true,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "breeze-ceiling-fan",
+      "slug": "breeze-ceiling-fan",
+      "name": "Breeze Ceiling Fan, 1200mm",
+      "category": "fans-fixtures",
+      "brand": "Mate Select",
+      "price": 3499,
+      "image": "/assets/fan.svg",
+      "images": [
+        "/assets/fan.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A considered ceiling fan concept for a comfortable home refresh. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Sweep": "1200mm (illustrative)",
+        "Blades": "3",
+        "Finish": "Ivory",
+        "Control": "Confirm compatible regulator in store"
+      },
+      "badge": "",
+      "featured": false,
+      "trending": true,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "wifi-smart-plug",
+      "slug": "wifi-smart-plug",
+      "name": "Wi-Fi Smart Plug",
+      "category": "smart-electricals",
+      "brand": "Mate Select",
+      "price": 999,
+      "image": "/assets/smartplug.svg",
+      "images": [
+        "/assets/smartplug.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A connected plug concept for exploring simple smart-home routines. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi (illustrative)",
+        "Compatibility": "Confirm supported apps in store",
+        "Use": "Indoor",
+        "Load rating": "Confirm before use"
+      },
+      "badge": "",
+      "featured": true,
+      "trending": true,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    },
+    {
+      "id": "smart-switch-module",
+      "slug": "smart-switch-module",
+      "name": "Smart Switch Module",
+      "category": "smart-electricals",
+      "brand": "Core Demo",
+      "price": 1499,
+      "image": "/assets/switch.svg",
+      "images": [
+        "/assets/switch.svg",
+        "/assets/product-spec.svg"
+      ],
+      "description": "A connected switch concept for discussing your smart electrical project. Demo product; exact brands, models, stock and prices must be confirmed with the store.",
+      "specs": {
+        "Connectivity": "Wi-Fi (illustrative)",
+        "Wiring": "Neutral requirements to be confirmed",
+        "Control": "App and manual (illustrative)",
+        "Installation": "Qualified electrician required"
+      },
+      "badge": "Demo selection",
+      "featured": false,
+      "trending": false,
+      "pricingNotice": "Illustrative demo price, not a store quotation."
+    }
+  ]
+}
